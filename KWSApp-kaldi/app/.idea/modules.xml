@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../aars/aars.iml" filepath="$PROJECT_DIR$/../aars/aars.iml" group="kaldi-android-demo/aars" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="kaldi-android-demo/app" />
+      <module fileurl="file://$PROJECT_DIR$/../kaldi-android-demo.iml" filepath="$PROJECT_DIR$/../kaldi-android-demo.iml" group="kaldi-android-demo" />
+      <module fileurl="file://$PROJECT_DIR$/../models/models.iml" filepath="$PROJECT_DIR$/../models/models.iml" group="kaldi-android-demo/models" />
+    </modules>
+  </component>
+</project>

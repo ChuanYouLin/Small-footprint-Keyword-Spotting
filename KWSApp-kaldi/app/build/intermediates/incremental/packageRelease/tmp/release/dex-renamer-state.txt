@@ -1,0 +1,4 @@
+#Thu May 14 14:10:11 CST 2020
+base.0=/home/eddie.lin/kaldi-android-demo/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:aars:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../aars/build/.transforms/65c9927215a6b2b1586b6b3a75780c6f/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../aars/build/.transforms/65c9927215a6b2b1586b6b3a75780c6f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
