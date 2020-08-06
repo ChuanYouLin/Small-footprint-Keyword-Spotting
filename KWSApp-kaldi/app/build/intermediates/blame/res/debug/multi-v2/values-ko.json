@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/eddie.lin/kaldi-android-demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "/home/eddie.lin/Small-footprint-Keyword-Spotting/KWSApp-kaldi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e530ccbb33e8427e5d5cc53adf41146c/res/values-ko/values-ko.xml",
