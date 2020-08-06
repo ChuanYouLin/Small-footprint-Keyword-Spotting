@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [:aars] /home/eddie.lin/kaldi-android-demo/aars/build/.transforms/65c9927215a6b2b1586b6b3a75780c6f/AndroidManifest.xml:2:1-11:12
+MERGED from [:models] /home/eddie.lin/kaldi-android-demo/models/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e530ccbb33e8427e5d5cc53adf41146c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ef01a9e345d78d0b73efe915b8cbdac3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/4e73bc9845a572fa9813ec2a2821d092/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/3900147b22518273b4769fc11ceab196/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/98182b7c0dd5e95a40dd5b58d65faceb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/b3908f31288c6449c3d1e00a7d9391fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60ef1f676684f5070147d9066798a1a6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/869b2943828a04eeeb58a7865c746581/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ca780a985467e617af245a71413b69d5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/eaf062247e3ad84fa5e337e667f94e90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60d2059a3350ba7b2102853569e93ab6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/6a9e44a2c785a255ecad82189a56de26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/93ed2329cea33344760e387c114cc686/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/004dc4286399a65a12c9fdd3430a0f68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e87ff1a935ff482df083ecdddcb3af44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ab06d3cc6d855d8ab98ccad99db1247f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/8396555c0e12f90a475f2770330dbbde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/fe0b2ada9c6a5964d9645a8c0a3fe82a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/f9ebfb0eefed890e6c52f830d3afa407/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/8ddcef47e4f0887ba9abb919a9bef829/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:8:5-21:19
+MERGED from [androidx.core:core:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60d2059a3350ba7b2102853569e93ab6/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60d2059a3350ba7b2102853569e93ab6/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/93ed2329cea33344760e387c114cc686/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/93ed2329cea33344760e387c114cc686/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60d2059a3350ba7b2102853569e93ab6/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:10:9-38
+	android:allowBackup
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:9:9-36
+activity#org.kaldi.demo.KaldiActivity
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+MERGED from [:aars] /home/eddie.lin/kaldi-android-demo/aars/build/.transforms/65c9927215a6b2b1586b6b3a75780c6f/AndroidManifest.xml:7:5-9:41
+MERGED from [:aars] /home/eddie.lin/kaldi-android-demo/aars/build/.transforms/65c9927215a6b2b1586b6b3a75780c6f/AndroidManifest.xml:7:5-9:41
+MERGED from [:models] /home/eddie.lin/kaldi-android-demo/models/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:models] /home/eddie.lin/kaldi-android-demo/models/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e530ccbb33e8427e5d5cc53adf41146c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e530ccbb33e8427e5d5cc53adf41146c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ef01a9e345d78d0b73efe915b8cbdac3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ef01a9e345d78d0b73efe915b8cbdac3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/4e73bc9845a572fa9813ec2a2821d092/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/4e73bc9845a572fa9813ec2a2821d092/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/3900147b22518273b4769fc11ceab196/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/3900147b22518273b4769fc11ceab196/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/98182b7c0dd5e95a40dd5b58d65faceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/98182b7c0dd5e95a40dd5b58d65faceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/b3908f31288c6449c3d1e00a7d9391fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/b3908f31288c6449c3d1e00a7d9391fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60ef1f676684f5070147d9066798a1a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60ef1f676684f5070147d9066798a1a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/869b2943828a04eeeb58a7865c746581/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/869b2943828a04eeeb58a7865c746581/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ca780a985467e617af245a71413b69d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ca780a985467e617af245a71413b69d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/eaf062247e3ad84fa5e337e667f94e90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/eaf062247e3ad84fa5e337e667f94e90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60d2059a3350ba7b2102853569e93ab6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/60d2059a3350ba7b2102853569e93ab6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/6a9e44a2c785a255ecad82189a56de26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/6a9e44a2c785a255ecad82189a56de26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/93ed2329cea33344760e387c114cc686/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/93ed2329cea33344760e387c114cc686/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/004dc4286399a65a12c9fdd3430a0f68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/004dc4286399a65a12c9fdd3430a0f68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e87ff1a935ff482df083ecdddcb3af44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/e87ff1a935ff482df083ecdddcb3af44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ab06d3cc6d855d8ab98ccad99db1247f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/ab06d3cc6d855d8ab98ccad99db1247f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/8396555c0e12f90a475f2770330dbbde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/8396555c0e12f90a475f2770330dbbde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/fe0b2ada9c6a5964d9645a8c0a3fe82a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/fe0b2ada9c6a5964d9645a8c0a3fe82a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/f9ebfb0eefed890e6c52f830d3afa407/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/f9ebfb0eefed890e6c52f830d3afa407/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/8ddcef47e4f0887ba9abb919a9bef829/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eddie.lin/.gradle/caches/transforms-2/files-2.1/8ddcef47e4f0887ba9abb919a9bef829/AndroidManifest.xml:20:5-44
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eddie.lin/kaldi-android-demo/app/src/main/AndroidManifest.xml
