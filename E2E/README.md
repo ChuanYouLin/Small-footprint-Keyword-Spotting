@@ -1,3 +1,5 @@
+下載Dataset並解壓縮 http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
+
 安裝套件:
 ```
 conda:
