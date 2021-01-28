@@ -1,6 +1,9 @@
 # Small-footprint-Keyword-Spotting
-KWSAPP、kaldi-android-demo需用android studio開啟
-
-DNN-HMM請整個資料夾放進kaldi/egs
-
-End-to-end請照資料夾內的README執行即可
+Small-footprint-Keyword-Spotting work on Google Speech Commands Dataset [[link](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)]
+## DNN-HMM
+Kaldi implementation using DNN-HMM model
+## E2E
+End-to-end model using TDNN with Domain Adversarial Training
+## KWSAPP, kaldi-android-demo
+Demo models on android sysyem to test latency and accuracy
+Implement by PyTorch Mobile [[link](https://pytorch.org/mobile/home/)] and Vosk-API [[link](https://github.com/alphacep/vosk-api)] 
