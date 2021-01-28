@@ -5,5 +5,4 @@ Kaldi implementation using DNN-HMM model
 ## E2E
 End-to-end model using TDNN with Domain Adversarial Training
 ## KWSAPP, kaldi-android-demo
-Demo models on android sysyem to test latency and accuracy
-Implement by PyTorch Mobile [[link](https://pytorch.org/mobile/home/)] and Vosk-API [[link](https://github.com/alphacep/vosk-api)] 
+Demo models on android sysyem to test latency and accuracy, implement by PyTorch Mobile [[link](https://pytorch.org/mobile/home/)] and Vosk-API [[link](https://github.com/alphacep/vosk-api)]
